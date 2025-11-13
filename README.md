@@ -42,18 +42,35 @@ My goal is to create applications that help communities and build professional s
 
 ---
 
-## 💻 Projects
+import { useEffect, useState } from "react";
 
-### 🔹 Bridge Bidding System (C)
-A program that simulates bridge bidding, analyzing hands for proper opening bids.
+export default function Projects() {
+  const [repos, setRepos] = useState([]);
 
-### 🔹 Data Structures Library (C++)
-Custom library including minheap, maxheap, AVL tree, graph, and hashtable.
+  useEffect(() => {
+    fetch("https://api.github.com/users/YOUR_GITHUB_USERNAME/repos?sort=updated")
+      .then((res) => res.json())
+      .then((data) => {
+        // Optionally filter to only include relevant repos
+        const filtered = data.filter(repo => !repo.fork);
+        setRepos(filtered);
+      });
+  }, []);
 
-### 🔹 E-Commerce System (Java)
-Collaborative OOP project developing an e-shop system in Java.
+  return (
+    <div>
+      <h2>💻 Projects</h2>
+      <ul>
+        {repos.map(repo => (
+          <li key={repo.id}>
+            <a href={repo.html_url} target="_blank">{repo.name}</a> - {repo.description}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
 
----
 
 ## 📫 Contact Me 
 <p align="center">
