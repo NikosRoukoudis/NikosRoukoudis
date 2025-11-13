@@ -63,7 +63,7 @@ Collaborative OOP project developing an e-shop system in Java.
 <p align="center">
   <a href="https://www.instagram.com/nikos_roukoudis/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%CE%BD%CE%B9%CE%BA%CE%BF%CE%BB%CE%B1%CE%BF%CF%82-%CF%81%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%B4%CE%B7%CF%82-2a25b5318/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:roukoudis.nikolaos@gmail.com"><img src="https://img.shields.io/badge/Gmail-121011?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="mailto:roukoudis.nikolaos@gmail.com"><img src="https://img.shields.io/badge/Gmail-121011?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge" /></a>
 </a>
 </p>
 
@@ -76,13 +76,6 @@ Collaborative OOP project developing an e-shop system in Java.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikosRoukoudis&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 👀 Visitors
-<p align="center">
-  <img src="https://profile-counter.glitch.me/NikosRoukoudis/count.svg" />
 </p>
 
 ---
