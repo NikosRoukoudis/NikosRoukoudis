@@ -37,8 +37,7 @@ My goal is to create applications that help communities and build professional s
 ## 📁 Portfolio Highlights
 - 📱 **App Development**  
 - 🌐 **Web Development**  
-- 🎨 **Web Design**  
-- 🏕️ **AUTH University Camp (Front Desk)**  
+- 🎨 **Web Design** 
 
 ---
 
