@@ -14,7 +14,7 @@ I am passionate about **Web Development, App Development, Web Design, and AI**.
 My goal is to create applications that help communities and build professional software solutions.  
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1Djou6dleRK8dUFDFCE8kv5i9cxmleJSH/view?usp=sharing](https://drive.google.com/file/d/1g3znH9J1bzE3QZFRJ8PbLFQTKBQVJyQt/view?usp=drive_link)"><img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1g3znH9J1bzE3QZFRJ8PbLFQTKBQVJyQt/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobat&logoColor=white"/></a>
 </p>
 ---
 
