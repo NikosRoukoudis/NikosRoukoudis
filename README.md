@@ -38,7 +38,8 @@ My goal is to create applications that help communities and build professional s
 ## 📁 Portfolio Highlights
 - 📱 **App Development**  
 - 🌐 **Web Development**  
-- 🎨 **Web Design** 
+- 🎨 **Web Design**
+- ⛁ **Data Analysis**
 
 ---
 
@@ -52,6 +53,12 @@ Custom library including minheap, maxheap, AVL tree, graph, and hashtable.
 
 ### 🔹 E-Commerce System (Java)
 Collaborative OOP project developing an e-shop system in Java.
+
+### 🔹 Web application (HTML, CSS, JavaScript)
+**OnlyPans** is a lighthearted, humorously named e-commerce or product discovery web application dedicated entirely to frying pans.
+
+### 🔹 Android Application (Java, XML)
+**SyncVibes** is a social discovery and activity planning Android app designed to help users find and coordinate places to visit, either solo or with friends. It combines elements of local discovery, social networking, and Tinder-style card swiping to make deciding where to go interactive and fun.
 
 ---
 
